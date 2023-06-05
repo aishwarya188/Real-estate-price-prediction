@@ -34,7 +34,7 @@ This Data Science project is about how to build a real estate price prediction. 
     
    
 # conclusion
-Over all it was a very interesting project. I got to know new terms like K fold cross validation.It was a great learning and experience.
+Over all it was a very interesting project. I got to know new terms like K fold cross validation, Grid searchcv.It was a great learning and experience.
     
 # Dataset
 Dtaset was taken from kaggle.com
